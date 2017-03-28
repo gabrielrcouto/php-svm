@@ -1,0 +1,23 @@
+{
+    "name": "gabrielrcouto/php-svm",
+    "description": "Pure PHP Support Vector Machine",
+    "keywords": ["php","svm","support","vector", "machine"],
+    "homepage": "http://github.com/gabrielrcouto/php-svm",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gabriel Rodrigues Couto",
+            "email": "gabrielrcouto@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0"
+    },
+    "require-dev" : {
+    },
+    "autoload": {
+        "psr-4": {
+            "Svm\\": "src/"
+        }
+    }
+}
