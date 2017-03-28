@@ -1,6 +1,6 @@
 # PHP SVM (Work in Progress)
 
-Pure PHP SVM Implementation, a simples PHP port of the [svmjs](https://github.com/karpathy/svmjs), thank you @karpathy :-)
+Pure PHP SVM Implementation, a simple PHP port of the [svmjs](https://github.com/karpathy/svmjs), thank you @karpathy :-)
 
 ## TO-DO
 
