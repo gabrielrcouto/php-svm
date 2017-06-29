@@ -164,7 +164,7 @@ class Svm
 
             $iter++;
 
-            echo 'iter: ' . $iter . ' alphaChanged: ' . $alphaChanged . PHP_EOL;
+            //echo 'iter: ' . $iter . ' alphaChanged: ' . $alphaChanged . PHP_EOL;
 
             //console.log("iter number %d, alphaChanged = %d", iter, alphaChanged);
             $passes = ($alphaChanged == 0) ? $passes + 1 : 0;
